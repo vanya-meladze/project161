@@ -1,0 +1,19 @@
+.header {
+  background: rgb(180, 179, 179);
+  border: 1px solid grey;
+  display: flex;
+  justify-content: center;
+}
+.header-logo {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: 900;
+  text-decoration: none;
+}
+.header-links {
+  align-items: flex-end;
+  color: #fff;
+  display: flex;
+  gap: 15px;
+  text-decoration: none;
+}
